@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <title>it&apos;s corvimae!!!!!</title>
         <meta name="description" content="corvimae official website do not steal" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <Main>
