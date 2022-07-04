@@ -55,6 +55,9 @@ export default function Home() {
         <Link href="https://github.com/corvimae">
           github is here
         </Link>
+        <Link href="mailto:corvimae@maybreak.com">
+          business inquiries here
+        </Link> 
         <p>
           thank you for reading :)
         </p>
