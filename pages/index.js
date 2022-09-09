@@ -34,6 +34,10 @@ export default function Home() {
           check out my podcast with swooce where we give speedrun advice
         </Link>
 
+        <Link href="https://gamesdonequick.com/framefatales">
+          tech lead for frame fatales
+        </Link>
+
         <Link href="https://gamesdonequick.com/hotfix">
           i have a gdq hotfix show also with swooce.
         </Link>
