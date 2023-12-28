@@ -30,27 +30,37 @@ export default function Home() {
         <Link href="https://twitch.tv/corvimae">
           i stream here
         </Link>
-        <Link href="https://twitter.com/dearpbpod">
+        {/* <Link href="https://twitter.com/dearpbpod">
           check out my podcast with swooce where we give speedrun advice
-        </Link>
+        </Link> */}
 
         <Link href="https://gamesdonequick.com/framefatales">
-          tech lead for frame fatales
+          i&apos;m a member of gdq staff as the tech lead for frame fatales.
         </Link>
+        <Subinfo>
+          also i&apos;m an interview producer for mainline
+        </Subinfo>
 
         <Link href="https://gamesdonequick.com/hotfix">
-          i have a gdq hotfix show also with swooce.
+          i also have a gdq hotfix show with swooce.
         </Link>
         <Subinfo>
           it&apos;s a speedrunning trivia game show every other saturday at 4pm eastern
         </Subinfo>
 
-        <Link href="https://psrd.run/">
-          i&apos;m the event producer and lead technician for pokémon speedrunning diversity
+        <Link href="https://allagarta.live/">
+          i&apos;m the lead technician for allagarta events team
         </Link>
-        <Sublink href="https://github.com/psrdiversity/">
-          (check out my nodecg layouts and stuff)
-        </Sublink>
+        <Subinfo>
+          we&apos;d love to broadcast your event!
+        </Subinfo>
+        {/* <Sublink href="https://github.com/psrdiversity/">
+          (check out my nodecg layouts and stuff i did for psrd back in the)
+        </Sublink> */}
+
+        <Link href="https://crosshare.org/corvimae">
+          crossword puzzles that i&apos;ve made are here
+        </Link>
 
         <Link href="https://maybreak.com/">
           blog is here
@@ -68,7 +78,7 @@ export default function Home() {
       </Main>
 
       <Footer>
-        play oras
+        run oras
       </Footer>
     </div>
   )
