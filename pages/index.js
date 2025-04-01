@@ -38,21 +38,21 @@ export default function Home() {
           i&apos;m a member of gdq staff as the tech lead for frame fatales.
         </Link>
         <Subinfo>
-          also i&apos;m an interview producer for mainline
+          also i&apos;m the head of software projects for all of GDQ. pretty neat!
         </Subinfo>
 
-        <Link href="https://gamesdonequick.com/hotfix">
-          i also have a gdq hotfix show with swooce.
+        <Link href="https://www.youtube.com/playlist?list=PLz8YL4HVC87X9I54nPFBYLnJs4nKVs4zI">
+          i had a gdq hotfix show with swooce.
         </Link>
         <Subinfo>
-          it&apos;s a speedrunning trivia game show every other saturday at 4pm eastern
+          it&apos;s a speedrunning trivia game show. it&apos;s still on i just don&apos;t host it anymore
         </Subinfo>
 
         <Link href="https://allagarta.live/">
-          i&apos;m the lead technician for allagarta events team
+          i&apos;m the lead engineer for allagarta events team
         </Link>
         <Subinfo>
-          we&apos;d love to broadcast your event!
+          we&apos;d love to design and/or broadcast your event!
         </Subinfo>
         {/* <Sublink href="https://github.com/psrdiversity/">
           (check out my nodecg layouts and stuff i did for psrd back in the)
@@ -61,6 +61,10 @@ export default function Home() {
         <Link href="https://crosshare.org/corvimae">
           crossword puzzles that i&apos;ve made are here
         </Link>
+        <Subinfo>
+          a few were also published on puzzmo, like&nbsp;
+          <a href="https://www.puzzmo.com/play/crossword/8b2j5i2mro" target="_blank" rel="noreferrer">this one</a>.
+        </Subinfo>
 
         <Link href="https://maybreak.com/">
           blog is here
@@ -69,6 +73,7 @@ export default function Home() {
         <Link href="https://github.com/corvimae">
           github is here
         </Link>
+
         <Link href="mailto:corvimae@maybreak.com">
           business inquiries here
         </Link> 
@@ -78,7 +83,7 @@ export default function Home() {
       </Main>
 
       <Footer>
-        run oras
+        you should speedrun oras on your nintendo 3ds
       </Footer>
     </div>
   )
